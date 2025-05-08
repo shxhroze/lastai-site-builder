@@ -1,0 +1,1 @@
+export default function CTAButton({ text, href }: { text: string, href: string }) { return <a href={href}>{text}</a>; }
